@@ -1,0 +1,23 @@
+/* ThinkTwit - Twitter Widget */
+
+ol.thinkTwitTweets {
+    font-size          : 12px;
+    margin             : 0;
+}
+
+ol.thinkTwitTweets li.thinkTwitTweet, ol.thinkTwitTweets li.thinkTwitNoTweets {
+    list-style         : none;
+    margin             : 0 0 15px;
+    word-wrap          : break-word;
+}
+
+ol.thinkTwitTweets li.thinkTwitTweet img.avatar {
+    border             : 0;
+    float              : left;
+    margin-right       : 5px;
+}
+
+ol.thinkTwitTweets li.thinkTwitTweet span.thinkTwitPublished {
+    display            : block;
+    font-style         : italic;
+}

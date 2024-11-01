@@ -1,0 +1,504 @@
+# Copyright (C) 2013 ThinkTwit
+# This file is distributed under the same license as the ThinkTwit package.
+msgid ""
+msgstr ""
+"Project-Id-Version: ThinkTwit 1.5.2\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/thinktwit\n"
+"POT-Creation-Date: 2015-01-18 13:02-0000\n"
+"PO-Revision-Date: 2015-02-25 14:49+0100\n"
+"Last-Translator: Stephen Pickett <meethoss@gmail.com>\n"
+"Language-Team: \n"
+"Language: en_GB\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.4\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: C:\\Users\\Steve\\Documents\\Work\\ThinkTwit"
+"\\thinktwit\n"
+
+#: C:\Users\Steve\Documents\Work\ThinkTwit\thinktwit/thinktwit.php:28
+msgid " said: "
+msgstr "rekao je:"
+
+#: C:\Users\Steve\Documents\Work\ThinkTwit\thinktwit/thinktwit.php:41
+msgid "This happened "
+msgstr "To se desilo"
+
+#: C:\Users\Steve\Documents\Work\ThinkTwit\thinktwit/thinktwit.php:42
+msgid "less than a minute ago"
+msgstr "pre manje od minut"
+
+#: C:\Users\Steve\Documents\Work\ThinkTwit\thinktwit/thinktwit.php:43
+msgid "about a minute ago"
+msgstr "otprilike pre minut"
+
+#: C:\Users\Steve\Documents\Work\ThinkTwit\thinktwit/thinktwit.php:44
+msgid " minutes ago"
+msgstr "pre nekoliko minuta"
+
+#: C:\Users\Steve\Documents\Work\ThinkTwit\thinktwit/thinktwit.php:45
+msgid "about an hour ago"
+msgstr "pre sat vremena"
+
+#: C:\Users\Steve\Documents\Work\ThinkTwit\thinktwit/thinktwit.php:46
+msgid "a couple of hours ago"
+msgstr "pre nekoliko sati"
+
+#: C:\Users\Steve\Documents\Work\ThinkTwit\thinktwit/thinktwit.php:47
+msgid "about =x= hours ago"
+msgstr "otprilike pre =x= sati"
+
+#: C:\Users\Steve\Documents\Work\ThinkTwit\thinktwit/thinktwit.php:48
+msgid "yesterday"
+msgstr "juče"
+
+#: C:\Users\Steve\Documents\Work\ThinkTwit\thinktwit/thinktwit.php:49
+msgid "almost 2 days ago"
+msgstr "skoro pre 2 dana"
+
+#: C:\Users\Steve\Documents\Work\ThinkTwit\thinktwit/thinktwit.php:50
+msgid " days ago"
+msgstr "pre nekoliko dana"
+
+#: C:\Users\Steve\Documents\Work\ThinkTwit\thinktwit/thinktwit.php:51
+msgid "There have been no recent tweets"
+msgstr "Nema novih tweet-ova"
+
+#: C:\Users\Steve\Documents\Work\ThinkTwit\thinktwit/thinktwit.php:71
+msgid ""
+"Outputs tweets from one or more Twitter users through the Widget interface, "
+"filtered on a particular #hashtag(s)"
+msgstr ""
+"Prikazuje tweet-ove jednog ili više Twitter korisnika putem Widget "
+"interfejsa filtriranog određenim #hashtag-ovima"
+
+#: C:\Users\Steve\Documents\Work\ThinkTwit\thinktwit/thinktwit.php:223
+msgid "My Tweets"
+msgstr "Moji tweet-ovi"
+
+#: C:\Users\Steve\Documents\Work\ThinkTwit\thinktwit/thinktwit.php:256
+#: C:\Users\Steve\Documents\Work\ThinkTwit\thinktwit/thinktwit.php:505
+msgid "General Settings"
+msgstr "Opšta podešavanja"
+
+#: C:\Users\Steve\Documents\Work\ThinkTwit\thinktwit/thinktwit.php:259
+msgid "Title:"
+msgstr "Naziv:"
+
+#: C:\Users\Steve\Documents\Work\ThinkTwit\thinktwit/thinktwit.php:262
+#: C:\Users\Steve\Documents\Work\ThinkTwit\thinktwit/thinktwit.php:1805
+msgid "Twitter usernames (optional) separated by spaces:"
+msgstr "Twitter korisnička imena (opciona) odvojena razmacima:"
+
+#: C:\Users\Steve\Documents\Work\ThinkTwit\thinktwit/thinktwit.php:265
+#: C:\Users\Steve\Documents\Work\ThinkTwit\thinktwit/thinktwit.php:1806
+msgid "Twitter hashtags/keywords (optional) separated by spaces:"
+msgstr "Twitter hashtag-ovi/ključne reči (opcione), odvojene razmacima:"
+
+#: C:\Users\Steve\Documents\Work\ThinkTwit\thinktwit/thinktwit.php:268
+#: C:\Users\Steve\Documents\Work\ThinkTwit\thinktwit/thinktwit.php:1807
+msgid "Filter by username and/or hashtag:"
+msgstr "Filtriraj prema korisničkom imenu i/ili hashtag-u:"
+
+#: C:\Users\Steve\Documents\Work\ThinkTwit\thinktwit/thinktwit.php:269
+#: C:\Users\Steve\Documents\Work\ThinkTwit\thinktwit/thinktwit.php:1807
+msgid "AND"
+msgstr "I"
+
+#: C:\Users\Steve\Documents\Work\ThinkTwit\thinktwit/thinktwit.php:270
+#: C:\Users\Steve\Documents\Work\ThinkTwit\thinktwit/thinktwit.php:1807
+msgid "OR"
+msgstr "ILI"
+
+#: C:\Users\Steve\Documents\Work\ThinkTwit\thinktwit/thinktwit.php:274
+#: C:\Users\Steve\Documents\Work\ThinkTwit\thinktwit/thinktwit.php:1808
+msgid "Username suffix (e.g. \" said \"):"
+msgstr "Sufiks korisničkog imena (npr. \"rekao je\"):"
+
+#: C:\Users\Steve\Documents\Work\ThinkTwit\thinktwit/thinktwit.php:277
+#: C:\Users\Steve\Documents\Work\ThinkTwit\thinktwit/thinktwit.php:1809
+msgid "Max tweets to display:"
+msgstr "Maks. broj tweet-ova za prikazivanje:"
+
+#: C:\Users\Steve\Documents\Work\ThinkTwit\thinktwit/thinktwit.php:280
+#: C:\Users\Steve\Documents\Work\ThinkTwit\thinktwit/thinktwit.php:1810
+msgid "Max days to display:"
+msgstr "Maks. broj dana za prikazivanje:"
+
+#: C:\Users\Steve\Documents\Work\ThinkTwit\thinktwit/thinktwit.php:283
+msgid "Update frequency:"
+msgstr "Ažuriraj frekventnost:"
+
+#: C:\Users\Steve\Documents\Work\ThinkTwit\thinktwit/thinktwit.php:284
+#: C:\Users\Steve\Documents\Work\ThinkTwit\thinktwit/thinktwit.php:1815
+msgid "Live (uncached)"
+msgstr "Live (nekeširan)"
+
+#: C:\Users\Steve\Documents\Work\ThinkTwit\thinktwit/thinktwit.php:285
+msgid "Paused"
+msgstr "Zaustavljen"
+
+#: C:\Users\Steve\Documents\Work\ThinkTwit\thinktwit/thinktwit.php:286
+#: C:\Users\Steve\Documents\Work\ThinkTwit\thinktwit/thinktwit.php:1818
+msgid "Live (cached)"
+msgstr "Live (keširan)"
+
+#: C:\Users\Steve\Documents\Work\ThinkTwit\thinktwit/thinktwit.php:287
+#: C:\Users\Steve\Documents\Work\ThinkTwit\thinktwit/thinktwit.php:1821
+msgid "Hourly"
+msgstr "Na svakih sat vremena"
+
+#: C:\Users\Steve\Documents\Work\ThinkTwit\thinktwit/thinktwit.php:288
+#: C:\Users\Steve\Documents\Work\ThinkTwit\thinktwit/thinktwit.php:1824
+msgid "Every 2 hours"
+msgstr "Na 2 sata"
+
+#: C:\Users\Steve\Documents\Work\ThinkTwit\thinktwit/thinktwit.php:289
+#: C:\Users\Steve\Documents\Work\ThinkTwit\thinktwit/thinktwit.php:1827
+msgid "Every 4 hours"
+msgstr "Na 4 sata"
+
+#: C:\Users\Steve\Documents\Work\ThinkTwit\thinktwit/thinktwit.php:290
+#: C:\Users\Steve\Documents\Work\ThinkTwit\thinktwit/thinktwit.php:1830
+msgid "Every 12 hours"
+msgstr "Na 12 sati "
+
+#: C:\Users\Steve\Documents\Work\ThinkTwit\thinktwit/thinktwit.php:291
+#: C:\Users\Steve\Documents\Work\ThinkTwit\thinktwit/thinktwit.php:1833
+msgid "Every day"
+msgstr "Svakodnevno"
+
+#: C:\Users\Steve\Documents\Work\ThinkTwit\thinktwit/thinktwit.php:292
+#: C:\Users\Steve\Documents\Work\ThinkTwit\thinktwit/thinktwit.php:1836
+msgid "Every 2 days"
+msgstr "Na 2 dana"
+
+#: C:\Users\Steve\Documents\Work\ThinkTwit\thinktwit/thinktwit.php:296
+#: C:\Users\Steve\Documents\Work\ThinkTwit\thinktwit/thinktwit.php:1811
+#: C:\Users\Steve\Documents\Work\ThinkTwit\thinktwit/thinktwit.php:1841
+msgid "Show username:"
+msgstr "Prikaži korisničko ime:"
+
+#: C:\Users\Steve\Documents\Work\ThinkTwit\thinktwit/thinktwit.php:297
+#: C:\Users\Steve\Documents\Work\ThinkTwit\thinktwit/thinktwit.php:1845
+msgid "None"
+msgstr "Nijedno"
+
+#: C:\Users\Steve\Documents\Work\ThinkTwit\thinktwit/thinktwit.php:298
+#: C:\Users\Steve\Documents\Work\ThinkTwit\thinktwit/thinktwit.php:1848
+msgid "Name"
+msgstr "Ime"
+
+#: C:\Users\Steve\Documents\Work\ThinkTwit\thinktwit/thinktwit.php:299
+#: C:\Users\Steve\Documents\Work\ThinkTwit\thinktwit/thinktwit.php:1851
+msgid "Username"
+msgstr "Korisničko ime"
+
+#: C:\Users\Steve\Documents\Work\ThinkTwit\thinktwit/thinktwit.php:303
+#: C:\Users\Steve\Documents\Work\ThinkTwit\thinktwit/thinktwit.php:1856
+msgid "Show username's avatar:"
+msgstr "Prikaži avatar korisničkog imena:"
+
+#: C:\Users\Steve\Documents\Work\ThinkTwit\thinktwit/thinktwit.php:304
+#: C:\Users\Steve\Documents\Work\ThinkTwit\thinktwit/thinktwit.php:310
+#: C:\Users\Steve\Documents\Work\ThinkTwit\thinktwit/thinktwit.php:316
+#: C:\Users\Steve\Documents\Work\ThinkTwit\thinktwit/thinktwit.php:322
+#: C:\Users\Steve\Documents\Work\ThinkTwit\thinktwit/thinktwit.php:328
+#: C:\Users\Steve\Documents\Work\ThinkTwit\thinktwit/thinktwit.php:334
+#: C:\Users\Steve\Documents\Work\ThinkTwit\thinktwit/thinktwit.php:340
+#: C:\Users\Steve\Documents\Work\ThinkTwit\thinktwit/thinktwit.php:411
+#: C:\Users\Steve\Documents\Work\ThinkTwit\thinktwit/thinktwit.php:412
+#: C:\Users\Steve\Documents\Work\ThinkTwit\thinktwit/thinktwit.php:413
+#: C:\Users\Steve\Documents\Work\ThinkTwit\thinktwit/thinktwit.php:414
+#: C:\Users\Steve\Documents\Work\ThinkTwit\thinktwit/thinktwit.php:415
+#: C:\Users\Steve\Documents\Work\ThinkTwit\thinktwit/thinktwit.php:416
+#: C:\Users\Steve\Documents\Work\ThinkTwit\thinktwit/thinktwit.php:417
+#: C:\Users\Steve\Documents\Work\ThinkTwit\thinktwit/thinktwit.php:845
+#: C:\Users\Steve\Documents\Work\ThinkTwit\thinktwit/thinktwit.php:1856
+#: C:\Users\Steve\Documents\Work\ThinkTwit\thinktwit/thinktwit.php:1857
+#: C:\Users\Steve\Documents\Work\ThinkTwit\thinktwit/thinktwit.php:1858
+#: C:\Users\Steve\Documents\Work\ThinkTwit\thinktwit/thinktwit.php:1859
+#: C:\Users\Steve\Documents\Work\ThinkTwit\thinktwit/thinktwit.php:1860
+#: C:\Users\Steve\Documents\Work\ThinkTwit\thinktwit/thinktwit.php:1861
+#: C:\Users\Steve\Documents\Work\ThinkTwit\thinktwit/thinktwit.php:1862
+msgid "Yes"
+msgstr "Da"
+
+#: C:\Users\Steve\Documents\Work\ThinkTwit\thinktwit/thinktwit.php:305
+#: C:\Users\Steve\Documents\Work\ThinkTwit\thinktwit/thinktwit.php:311
+#: C:\Users\Steve\Documents\Work\ThinkTwit\thinktwit/thinktwit.php:317
+#: C:\Users\Steve\Documents\Work\ThinkTwit\thinktwit/thinktwit.php:323
+#: C:\Users\Steve\Documents\Work\ThinkTwit\thinktwit/thinktwit.php:329
+#: C:\Users\Steve\Documents\Work\ThinkTwit\thinktwit/thinktwit.php:335
+#: C:\Users\Steve\Documents\Work\ThinkTwit\thinktwit/thinktwit.php:341
+#: C:\Users\Steve\Documents\Work\ThinkTwit\thinktwit/thinktwit.php:411
+#: C:\Users\Steve\Documents\Work\ThinkTwit\thinktwit/thinktwit.php:412
+#: C:\Users\Steve\Documents\Work\ThinkTwit\thinktwit/thinktwit.php:413
+#: C:\Users\Steve\Documents\Work\ThinkTwit\thinktwit/thinktwit.php:414
+#: C:\Users\Steve\Documents\Work\ThinkTwit\thinktwit/thinktwit.php:415
+#: C:\Users\Steve\Documents\Work\ThinkTwit\thinktwit/thinktwit.php:416
+#: C:\Users\Steve\Documents\Work\ThinkTwit\thinktwit/thinktwit.php:417
+#: C:\Users\Steve\Documents\Work\ThinkTwit\thinktwit/thinktwit.php:846
+#: C:\Users\Steve\Documents\Work\ThinkTwit\thinktwit/thinktwit.php:1856
+#: C:\Users\Steve\Documents\Work\ThinkTwit\thinktwit/thinktwit.php:1857
+#: C:\Users\Steve\Documents\Work\ThinkTwit\thinktwit/thinktwit.php:1858
+#: C:\Users\Steve\Documents\Work\ThinkTwit\thinktwit/thinktwit.php:1859
+#: C:\Users\Steve\Documents\Work\ThinkTwit\thinktwit/thinktwit.php:1860
+#: C:\Users\Steve\Documents\Work\ThinkTwit\thinktwit/thinktwit.php:1861
+#: C:\Users\Steve\Documents\Work\ThinkTwit\thinktwit/thinktwit.php:1862
+msgid "No"
+msgstr "Ne"
+
+#: C:\Users\Steve\Documents\Work\ThinkTwit\thinktwit/thinktwit.php:309
+#: C:\Users\Steve\Documents\Work\ThinkTwit\thinktwit/thinktwit.php:1857
+msgid "Show when published:"
+msgstr "Prikaži kad se objavi:"
+
+#: C:\Users\Steve\Documents\Work\ThinkTwit\thinktwit/thinktwit.php:315
+#: C:\Users\Steve\Documents\Work\ThinkTwit\thinktwit/thinktwit.php:1858
+msgid "Show 'Follow @username' links:"
+msgstr "Prikaži linkove ‘Prati @korisničko ime’"
+
+#: C:\Users\Steve\Documents\Work\ThinkTwit\thinktwit/thinktwit.php:321
+#: C:\Users\Steve\Documents\Work\ThinkTwit\thinktwit/thinktwit.php:1859
+msgid "Open links in new window:"
+msgstr "Otvori linkove u novom prozoru:"
+
+#: C:\Users\Steve\Documents\Work\ThinkTwit\thinktwit/thinktwit.php:327
+#: C:\Users\Steve\Documents\Work\ThinkTwit\thinktwit/thinktwit.php:1860
+msgid "Prevent caching e.g. by WP Super Cache:"
+msgstr "Spreči keširanje, koristi npr. WP Super Cache:"
+
+#: C:\Users\Steve\Documents\Work\ThinkTwit\thinktwit/thinktwit.php:333
+#: C:\Users\Steve\Documents\Work\ThinkTwit\thinktwit/thinktwit.php:1861
+msgid ""
+"Use CURL for accessing Twitter API (set yes if getting `URL file-access` "
+"errors):"
+msgstr ""
+"Koristite CURL za pristup Twitter API-ju (podesite vrednost na ‘da’ ako "
+"dobijate izveštaje da je došlo do greške prilikom pristupa URL-u datoteke): "
+
+#: C:\Users\Steve\Documents\Work\ThinkTwit\thinktwit/thinktwit.php:339
+#: C:\Users\Steve\Documents\Work\ThinkTwit\thinktwit/thinktwit.php:1862
+msgid "Output debug messages:"
+msgstr "Poruke o otklanjanju grešaka izlaza:"
+
+#: C:\Users\Steve\Documents\Work\ThinkTwit\thinktwit/thinktwit.php:347
+msgid "Time Messages"
+msgstr "Vremenske poruke"
+
+#: C:\Users\Steve\Documents\Work\ThinkTwit\thinktwit/thinktwit.php:349
+msgid "NOTE: The editing of these messages is optional."
+msgstr "NAPOMENA: Uređivanje ovih poruka je opciono."
+
+#: C:\Users\Steve\Documents\Work\ThinkTwit\thinktwit/thinktwit.php:352
+#: C:\Users\Steve\Documents\Work\ThinkTwit\thinktwit/thinktwit.php:1865
+msgid "Time prefix:"
+msgstr "Vremenski prefiks:"
+
+#: C:\Users\Steve\Documents\Work\ThinkTwit\thinktwit/thinktwit.php:355
+#: C:\Users\Steve\Documents\Work\ThinkTwit\thinktwit/thinktwit.php:1866
+msgid "Less than 59 seconds ago:"
+msgstr "Pre manje od 59 sekundi:"
+
+#: C:\Users\Steve\Documents\Work\ThinkTwit\thinktwit/thinktwit.php:358
+#: C:\Users\Steve\Documents\Work\ThinkTwit\thinktwit/thinktwit.php:1867
+msgid "Less than 1 minute 59 seconds ago:"
+msgstr "Pre manje od minut i 59 sekundi:"
+
+#: C:\Users\Steve\Documents\Work\ThinkTwit\thinktwit/thinktwit.php:361
+#: C:\Users\Steve\Documents\Work\ThinkTwit\thinktwit/thinktwit.php:1868
+msgid "Less than 50 minutes ago:"
+msgstr "Pre manje od 50 minuta:"
+
+#: C:\Users\Steve\Documents\Work\ThinkTwit\thinktwit/thinktwit.php:364
+#: C:\Users\Steve\Documents\Work\ThinkTwit\thinktwit/thinktwit.php:1869
+msgid "Less than 89 minutes ago:"
+msgstr "Pre manje od 89 minuta:"
+
+#: C:\Users\Steve\Documents\Work\ThinkTwit\thinktwit/thinktwit.php:367
+#: C:\Users\Steve\Documents\Work\ThinkTwit\thinktwit/thinktwit.php:1870
+msgid "Less than 150 minutes ago:"
+msgstr "Pre manje od 150 minuta:"
+
+#: C:\Users\Steve\Documents\Work\ThinkTwit\thinktwit/thinktwit.php:370
+#: C:\Users\Steve\Documents\Work\ThinkTwit\thinktwit/thinktwit.php:1871
+msgid "Less than 23 hours ago:"
+msgstr "Pre manje od 23 sata:"
+
+#: C:\Users\Steve\Documents\Work\ThinkTwit\thinktwit/thinktwit.php:373
+#: C:\Users\Steve\Documents\Work\ThinkTwit\thinktwit/thinktwit.php:1872
+msgid "Less than 36 hours:"
+msgstr "Pre manje od 36 sati:"
+
+#: C:\Users\Steve\Documents\Work\ThinkTwit\thinktwit/thinktwit.php:376
+#: C:\Users\Steve\Documents\Work\ThinkTwit\thinktwit/thinktwit.php:1873
+msgid "Less than 48 hours ago:"
+msgstr "Pre manje od 48 sati:"
+
+#: C:\Users\Steve\Documents\Work\ThinkTwit\thinktwit/thinktwit.php:379
+#: C:\Users\Steve\Documents\Work\ThinkTwit\thinktwit/thinktwit.php:1874
+msgid "More than 48 hours ago:"
+msgstr "Pre više od 48 sati:"
+
+#: C:\Users\Steve\Documents\Work\ThinkTwit\thinktwit/thinktwit.php:382
+#: C:\Users\Steve\Documents\Work\ThinkTwit\thinktwit/thinktwit.php:1875
+msgid "No recent tweets:"
+msgstr "Nema novih tweet-ova:"
+
+#: C:\Users\Steve\Documents\Work\ThinkTwit\thinktwit/thinktwit.php:386
+msgid "Support Development"
+msgstr "Podržite razvoj"
+
+#: C:\Users\Steve\Documents\Work\ThinkTwit\thinktwit/thinktwit.php:388
+msgid ""
+"If you would like to support development of ThinkTwit donations are "
+"gratefully accepted:"
+msgstr ""
+"Ako biste želeli da podržite razvoj  ThinkTwit-a, donacije su dobrodošle:"
+
+#: C:\Users\Steve\Documents\Work\ThinkTwit\thinktwit/thinktwit.php:389
+msgid "PayPal - The safer, easier way to pay online."
+msgstr "PayPal - bezbedniji i lakši način za online plaćanje."
+
+#: C:\Users\Steve\Documents\Work\ThinkTwit\thinktwit/thinktwit.php:390
+msgid "Reset Settings"
+msgstr "Poništi podešavanja"
+
+#: C:\Users\Steve\Documents\Work\ThinkTwit\thinktwit/thinktwit.php:453
+#: C:\Users\Steve\Documents\Work\ThinkTwit\thinktwit/thinktwit.php:474
+msgid "Settings"
+msgstr "Podešavanja"
+
+#: C:\Users\Steve\Documents\Work\ThinkTwit\thinktwit/thinktwit.php:475
+msgid "Support"
+msgstr "Podrška"
+
+#: C:\Users\Steve\Documents\Work\ThinkTwit\thinktwit/thinktwit.php:476
+msgid "Donate"
+msgstr "Donirajte"
+
+#: C:\Users\Steve\Documents\Work\ThinkTwit\thinktwit/thinktwit.php:487
+msgid "ThinkTwit Settings"
+msgstr "ThinkTwit Podešavanja"
+
+#: C:\Users\Steve\Documents\Work\ThinkTwit\thinktwit/thinktwit.php:512
+msgid "Cleanup period"
+msgstr "Period čišćenja"
+
+#: C:\Users\Steve\Documents\Work\ThinkTwit\thinktwit/thinktwit.php:520
+msgid "Use default stylesheet"
+msgstr "Koristi podrazumevanu datoteku sa stilovima"
+
+#: C:\Users\Steve\Documents\Work\ThinkTwit\thinktwit/thinktwit.php:528
+msgid "Twitter API Settings"
+msgstr "Twitter API podešavanja"
+
+#: C:\Users\Steve\Documents\Work\ThinkTwit\thinktwit/thinktwit.php:536
+msgid "Consumer key"
+msgstr "Ključ klijenta"
+
+#: C:\Users\Steve\Documents\Work\ThinkTwit\thinktwit/thinktwit.php:544
+msgid "Consumer secret"
+msgstr "Tajna klijenta"
+
+#: C:\Users\Steve\Documents\Work\ThinkTwit\thinktwit/thinktwit.php:576
+#: C:\Users\Steve\Documents\Work\ThinkTwit\thinktwit/thinktwit.php:593
+msgid "none"
+msgstr "nijedan"
+
+#: C:\Users\Steve\Documents\Work\ThinkTwit\thinktwit/thinktwit.php:577
+#: C:\Users\Steve\Documents\Work\ThinkTwit\thinktwit/thinktwit.php:578
+#: C:\Users\Steve\Documents\Work\ThinkTwit\thinktwit/thinktwit.php:597
+#: C:\Users\Steve\Documents\Work\ThinkTwit\thinktwit/thinktwit.php:602
+#: C:\Users\Steve\Documents\Work\ThinkTwit\thinktwit/thinktwit.php:606
+#: C:\Users\Steve\Documents\Work\ThinkTwit\thinktwit/thinktwit.php:614
+#: C:\Users\Steve\Documents\Work\ThinkTwit\thinktwit/thinktwit.php:669
+#: C:\Users\Steve\Documents\Work\ThinkTwit\thinktwit/thinktwit.php:670
+msgid "never"
+msgstr "nikad"
+
+#: C:\Users\Steve\Documents\Work\ThinkTwit\thinktwit/thinktwit.php:634
+#: C:\Users\Steve\Documents\Work\ThinkTwit\thinktwit/thinktwit.php:644
+#: C:\Users\Steve\Documents\Work\ThinkTwit\thinktwit/thinktwit.php:764
+msgid "empty"
+msgstr "prazan"
+
+#: C:\Users\Steve\Documents\Work\ThinkTwit\thinktwit/thinktwit.php:642
+msgid "The following static values are for information only:"
+msgstr "Sledeće statičke vrednosti služe samo za informisanje:"
+
+#: C:\Users\Steve\Documents\Work\ThinkTwit\thinktwit/thinktwit.php:643
+msgid "Version"
+msgstr "Verzija"
+
+#: C:\Users\Steve\Documents\Work\ThinkTwit\thinktwit/thinktwit.php:644
+msgid "Cache names"
+msgstr "Nazivi keša"
+
+#: C:\Users\Steve\Documents\Work\ThinkTwit\thinktwit/thinktwit.php:645
+msgid "Clear Cache"
+msgstr "Očišćen keš"
+
+#: C:\Users\Steve\Documents\Work\ThinkTwit\thinktwit/thinktwit.php:646
+msgid "Last updated"
+msgstr "Poslednje ažuriranje"
+
+#: C:\Users\Steve\Documents\Work\ThinkTwit\thinktwit/thinktwit.php:647
+msgid "Last cleanup"
+msgstr "Poslednje čišćenje"
+
+#: C:\Users\Steve\Documents\Work\ThinkTwit\thinktwit/thinktwit.php:653
+msgid "Enter your Twitter Application authentication settings below:"
+msgstr "Dole unesite svoje postavke provere Twitter aplikacije:"
+
+#: C:\Users\Steve\Documents\Work\ThinkTwit\thinktwit/thinktwit.php:821
+msgid "Daily"
+msgstr "Svakodnevno"
+
+#: C:\Users\Steve\Documents\Work\ThinkTwit\thinktwit/thinktwit.php:822
+msgid "Weekly"
+msgstr "Jednom nedeljno"
+
+#: C:\Users\Steve\Documents\Work\ThinkTwit\thinktwit/thinktwit.php:823
+msgid "Fortnightly"
+msgstr "Dva puta mesečno"
+
+#: C:\Users\Steve\Documents\Work\ThinkTwit\thinktwit/thinktwit.php:825
+msgid "Monthly"
+msgstr "Jednom mesečno"
+
+#: C:\Users\Steve\Documents\Work\ThinkTwit\thinktwit/thinktwit.php:826
+msgid "Quarterly"
+msgstr "Tromesečno"
+
+#: C:\Users\Steve\Documents\Work\ThinkTwit\thinktwit/thinktwit.php:827
+msgid "Bi-annually"
+msgstr "Dva puta godišnje"
+
+#: C:\Users\Steve\Documents\Work\ThinkTwit\thinktwit/thinktwit.php:828
+msgid "Annually"
+msgstr "Jednom godišnje"
+
+#: C:\Users\Steve\Documents\Work\ThinkTwit\thinktwit/thinktwit.php:1636
+msgid "Error: Unable to display tweets."
+msgstr "Greška: Neuspelo prikazivanje tweet-ova"
+
+#: C:\Users\Steve\Documents\Work\ThinkTwit\thinktwit/thinktwit.php:1803
+msgid "Current date/time:"
+msgstr "Tekući datum/vreme:"
+
+#: C:\Users\Steve\Documents\Work\ThinkTwit\thinktwit/thinktwit.php:1804
+msgid "Widget ID:"
+msgstr "ID widget-a:"
+
+#: C:\Users\Steve\Documents\Work\ThinkTwit\thinktwit/thinktwit.php:1863
+msgid "Username URL:"
+msgstr "URL korisničkog imena:"
+
+#: C:\Users\Steve\Documents\Work\ThinkTwit\thinktwit/thinktwit.php:1864
+msgid "Hashtag URL:"
+msgstr "URL hashtag-a:"
